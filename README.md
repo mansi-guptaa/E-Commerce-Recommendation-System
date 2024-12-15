@@ -1,4 +1,6 @@
 # E-Commerce Recommendation System  
+<img src="https://github.com/user-attachments/assets/8dc24aad-f075-4bb0-82f7-67867142c0c2" width="1000" height = "300"/>
+
 
 ## Introduction  
 In the era of digital transformation, e-commerce platforms provide an extensive range of products, which can overwhelm users when making choices. This project addresses the challenge of delivering personalized product recommendations to enhance user experience. By employing machine learning techniques, the system offers tailored suggestions using approaches like content-based filtering, collaborative filtering, and hybrid methods.  
